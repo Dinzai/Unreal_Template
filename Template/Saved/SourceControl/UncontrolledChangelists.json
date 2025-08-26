@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Unreal/DAGD355_Demo/Content/Map/L_Brett_Test.umap",
+				"F:/Unreal/DAGD355_Demo/Content/Game/BP_GameMode.uasset",
+				"F:/Unreal/DAGD355_Demo/Content/Game/BP_GameInstance.uasset",
+				"F:/Unreal/DAGD355_Demo/Content/Game/BP_HUD.uasset",
+				"F:/Unreal/DAGD355_Demo/Content/Player/BP_PlayerController.uasset",
+				"F:/Unreal/DAGD355_Demo/Content/Player/BP_PlayerCharacter.uasset",
+				"F:/Unreal/DAGD355_Demo/Content/Game/Input/IMC_Default.uasset",
+				"F:/Unreal/Template/Content/Map/L_Template.umap",
+				"F:/Unreal/Template/Content/Map/L_Brett_Test.umap",
+				"F:/Unreal/DAGD355_Test/Content/Game/Input/Action/IA_Move.uasset",
+				"F:/Unreal/DAGD355_Test/Content/Player/BP_PlayerCharacter.uasset",
+				"F:/Unreal/DAGD355_Test/Content/Game/Input/IMC_Default.uasset",
+				"F:/Unreal/DAGD355_Test/Content/Game/Input/Action/IA_Pan.uasset",
+				"F:/Unreal/DAGD355_Test/Content/Player/BP_PlayerController.uasset",
+				"F:/Unreal/DAGD355_Test/Content/Game/Input/Action/IA_Look.uasset",
+				"F:/Unreal/DAGD355_Test/Content/Game/Input/Action/IA_Jump.uasset"
+			]
+		}
+	]
+}
